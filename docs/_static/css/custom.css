@@ -1,0 +1,7 @@
+﻿:root {
+  --informator-accent: #0f766e;
+}
+
+.bd-main .bd-content {
+  max-width: 72rem;
+}
