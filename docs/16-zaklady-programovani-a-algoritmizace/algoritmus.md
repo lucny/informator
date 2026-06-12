@@ -1,26 +1,32 @@
-﻿# Algoritmus
+# Algoritmus
 
-Algoritmy jsou zakladem informatiky, protoze umoznuji popsat reseni problemu jasnym a opakovatelnych postupem.
+Algoritmy jsou základem informatiky, protože umožňují popsat řešení problému jasným a opakovatelným postupem. Díky algoritmům lze úlohu vysvětlit člověku, zkontrolovat její správnost a později ji převést do programu.
 
-## Vyukove cile
+## Výukové cíle
 
-- Vysvetlit pojem algoritmus vlastnimi slovy.
-- Rozpoznat vlastnosti dobreho algoritmu.
-- Vytvorit jednoduchy algoritmus a zapsat ho v Pythonu.
+- Vysvětlit pojem algoritmus vlastními slovy.
+- Rozpoznat vlastnosti dobře navrženého algoritmu.
+- Vytvořit jednoduchý algoritmus a zapsat ho v Pythonu.
 
-## Zakladni pojmy
+## Základní pojmy
 
 - algoritmus
 - krok
 - vstup
-- vystup
-- podminka
+- výstup
+- podmínka
 
-## Vyklad
+## Výklad
 
-Algoritmus je konecna posloupnost kroku, ktera vede od zadaneho vstupu ke spravnemu vystupu. Dobry algoritmus je srozumitelny, jednoznacny a proveditelny. V praxi se algoritmy zapisuji slovne, pomoci vyvojovych diagramu nebo primo v programovacim jazyce.
+Algoritmus je konečná posloupnost kroků, která vede od zadaného vstupu ke správnému výstupu. Dobrý algoritmus je srozumitelný, jednoznačný a proveditelný. Každý krok musí být popsán tak, aby bylo jasné, co se má udělat a kdy postup končí.
 
-## Ukazka v Pythonu
+V praxi se algoritmy zapisují slovně, pomocí vývojových diagramů nebo přímo v programovacím jazyce. Program je potom konkrétní zápis algoritmu, který může provést počítač.
+
+## Ukázka nebo modelová situace
+
+Představ si, že chceš rozhodnout, zda je zadané celé číslo sudé. Vstupem je číslo, postup ověří zbytek po dělení dvěma a výstupem je odpověď, zda je číslo sudé, nebo liché.
+
+## Ukázka kódu
 
 ```python
 def je_sude(cislo: int) -> bool:
@@ -28,43 +34,43 @@ def je_sude(cislo: int) -> bool:
 
 vstup = 14
 if je_sude(vstup):
-    print(f"Cislo {vstup} je sude.")
+    print(f"Číslo {vstup} je sudé.")
 else:
-    print(f"Cislo {vstup} je liche.")
+    print(f"Číslo {vstup} je liché.")
 ```
 
-## Jednoduchy diagram
+## Grafické shrnutí nebo diagram
 
 ```{mermaid}
 flowchart TD
-    A[Zadej cislo] --> B{cislo % 2 == 0?}
-    B -- Ano --> C[Vypis: sude]
-    B -- Ne --> D[Vypis: liche]
+    A[Zadej číslo] --> B{číslo % 2 == 0?}
+    B -- Ano --> C[Vypiš: sudé]
+    B -- Ne --> D[Vypiš: liché]
 ```
 
-## Cviceni
+## Cvičení
 
-1. Navrhni algoritmus pro zjisteni, zda je student plnolety.
-2. Uprav ukazkovy program tak, aby fungoval pro seznam cisel.
+1. Navrhni algoritmus pro zjištění, zda je student plnoletý.
+2. Uprav ukázkový program tak, aby fungoval pro seznam čísel.
 
-## Rozbalovaci napoveda
+## Rozbalovací nápověda
 
-```{toggle} Napoveda
-Zamysli se nad tim, jaky vstup algoritmus dostane a jaky ma byt vystup.
+```{toggle} Nápověda
+Zamysli se nad tím, jaký vstup algoritmus dostane a jaký má být výstup. Potom urči podmínku, která rozhoduje mezi dvěma možnostmi.
 ```
 
-## Rozbalovaci reseni
+## Rozbalovací řešení
 
-```{toggle} Reseni
-Pro plnoletost staci podminka vek >= 18. U seznamu cisel projdi hodnoty cyklem a pro kazdou urci sudost.
+```{toggle} Řešení
+Pro plnoletost stačí podmínka `vek >= 18`. U seznamu čísel projdi hodnoty cyklem `for` a pro každou hodnotu zavolej funkci `je_sude`.
 ```
 
-## Shrnuti
+## Shrnutí
 
-Algoritmus je presny navod k reseni problemu. Musi mit jasne kroky, definovany vstup a vystup a musi skoncit.
+Algoritmus je přesný návod k řešení problému. Musí mít jasné kroky, definovaný vstup a výstup a musí skončit v konečném počtu kroků.
 
-## Kontrolni otazky
+## Kontrolní otázky
 
-1. Jake vlastnosti by mel mit kvalitni algoritmus?
-2. Proc je dulezita jednoznacnost jednotlivych kroku?
-3. Jak poznas, ze algoritmus vzdy skonci?
+1. Jaké vlastnosti by měl mít kvalitní algoritmus?
+2. Proč je důležitá jednoznačnost jednotlivých kroků?
+3. Jak poznáš, že algoritmus vždy skončí?

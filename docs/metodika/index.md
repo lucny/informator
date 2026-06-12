@@ -1,4 +1,4 @@
 ﻿# Metodika
 
-Strucna metodicka cast projektu Informator.
+Stručná metodická část projektu Informator.
 

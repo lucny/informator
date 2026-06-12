@@ -1,4 +1,3 @@
-﻿# 02-programy-a-data
+# 2 Programy a data
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

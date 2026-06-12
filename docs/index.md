@@ -1,6 +1,6 @@
 ﻿# Informator
 
-Minimalni prototyp elektronicke ucebnice informatiky pro stredni skolu.
+Minimální prototyp elektronické učebnice informatiky pro střední školu.
 
 ```{toctree}
 :maxdepth: 1

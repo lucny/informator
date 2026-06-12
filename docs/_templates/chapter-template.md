@@ -1,60 +1,60 @@
-﻿# Nazev kapitoly
+# Název kapitoly
 
-Krátký úvod: proc je tema dulezite.
+Krátký úvod: proč je téma důležité.
 
-## Vyukove cile
+## Výukové cíle
 
-- Cil 1
-- Cil 2
+- Cíl 1
+- Cíl 2
 
-## Zakladni pojmy
+## Základní pojmy
 
 - Pojem 1
 - Pojem 2
 
-## Vyklad
+## Výklad
 
-Sem patri vyukovy text.
+Sem patří výukový text.
 
-## Ukazka nebo modelova situace
+## Ukázka nebo modelová situace
 
-Popis modelove situace.
+Popis modelové situace.
 
-## Ukazka kodu
+## Ukázka kódu
 
 ```python
-print("Ukazkovy kod")
+print("Ukázkový kód")
 ```
 
-## Graficke shrnuti nebo diagram
+## Grafické shrnutí nebo diagram
 
 ```{mermaid}
 flowchart LR
-    A[Start] --> B[Pokrok]
+    A[Start] --> B[Postup]
 ```
 
-## Cviceni
+## Cvičení
 
-1. Ukol 1
-2. Ukol 2
+1. Úkol 1
+2. Úkol 2
 
-## Rozbalovaci napoveda
+## Rozbalovací nápověda
 
-```{toggle} Napoveda
-Zkus si problem rozdelit na mensi kroky.
+```{toggle} Nápověda
+Zkus si problém rozdělit na menší kroky.
 ```
 
-## Rozbalovaci reseni
+## Rozbalovací řešení
 
-```{toggle} Reseni
-Strucny navrh postupu reseni.
+```{toggle} Řešení
+Stručný návrh postupu řešení.
 ```
 
-## Shrnuti
+## Shrnutí
 
-Kratke shrnuti hlavnich myslenek.
+Krátké shrnutí hlavních myšlenek.
 
-## Kontrolni otazky
+## Kontrolní otázky
 
-1. Otazka 1
-2. Otazka 2
+1. Otázka 1
+2. Otázka 2

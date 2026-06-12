@@ -1,4 +1,4 @@
-﻿# 16 Zaklady programovani a algoritmizace
+# 16 Základy programování a algoritmizace
 
 ```{toctree}
 :maxdepth: 1

@@ -1,4 +1,3 @@
-﻿# 17-vyvojarske-nastroje-a-verzovaci-systemy
+# 17 Vývojářské nástroje a verzovací systémy
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

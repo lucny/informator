@@ -1,4 +1,3 @@
-﻿# 09-digitalni-video-a-multimedialni-prezentace
+# 9 Digitální video a multimediální prezentace
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

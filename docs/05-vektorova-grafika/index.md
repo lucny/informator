@@ -1,4 +1,3 @@
-﻿# 05-vektorova-grafika
+# 5 Vektorová grafika
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

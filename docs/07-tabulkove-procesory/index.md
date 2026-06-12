@@ -1,4 +1,3 @@
-﻿# 07-tabulkove-procesory
+# 7 Tabulkové procesory
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

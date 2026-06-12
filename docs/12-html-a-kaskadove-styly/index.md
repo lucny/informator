@@ -1,4 +1,3 @@
-﻿# 12-html-a-kaskadove-styly
+# 12 HTML a kaskádové styly
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

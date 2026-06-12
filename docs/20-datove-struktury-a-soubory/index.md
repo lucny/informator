@@ -1,4 +1,3 @@
-﻿# 20-datove-struktury-a-soubory
+# 20 Datové struktury a soubory
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

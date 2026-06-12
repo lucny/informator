@@ -1,4 +1,3 @@
-﻿# 04-rastrova-grafika-a-digitalni-fotografie
+# 4 Rastrová grafika a digitální fotografie
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

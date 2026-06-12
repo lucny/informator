@@ -1,4 +1,3 @@
-﻿# 01-zaklady-informatiky
+# 1 Základy informatiky
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

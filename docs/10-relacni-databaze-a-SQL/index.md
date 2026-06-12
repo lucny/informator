@@ -1,4 +1,3 @@
-﻿# 10-relacni-databaze-a-SQL
+# 10 Relační databáze a SQL
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

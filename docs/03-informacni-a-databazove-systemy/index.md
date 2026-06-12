@@ -1,4 +1,3 @@
-﻿# 03-informacni-a-databazove-systemy
+# 3 Informační a databázové systémy
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

@@ -1,4 +1,3 @@
-﻿# 08-pocitacove-zpracovani-zvuku
+# 8 Počítačové zpracování zvuku
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

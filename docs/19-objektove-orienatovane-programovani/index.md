@@ -1,4 +1,3 @@
-﻿# 19-objektove-orienatovane-programovani
+# 19 Objektově orientované programování
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

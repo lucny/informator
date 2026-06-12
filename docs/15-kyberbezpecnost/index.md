@@ -1,4 +1,3 @@
-﻿# 15-kyberbezpecnost
+# 15 Kyberbezpečnost
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

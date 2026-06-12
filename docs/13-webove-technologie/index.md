@@ -1,4 +1,3 @@
-﻿# 13-webove-technologie
+# 13 Webové technologie
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

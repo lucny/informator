@@ -1,4 +1,3 @@
-﻿# 18-strukturovane-programovani
+# 18 Strukturované programování
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.

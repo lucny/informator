@@ -1,4 +1,3 @@
-﻿# 06-zpracovani-textu-na-pocitaci
+# 6 Zpracování textu na počítači
 
-Tato kapitola bude doplnena.
-
+Tato kapitola bude doplněna.
